@@ -1,15 +1,15 @@
 <h1 align="center">✨ Mark — Developer • Engineer • Founder of Zyntriax ✨</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mn2cash&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=MN2CASHYy&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 <p align="center">
   <a href="https://zyntriax.com">
     <img src="https://img.shields.io/badge/Website-zyntriax.com-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://github.com/mn2cash">
-    <img src="https://img.shields.io/badge/GitHub-mn2cash-111?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/MN2CASHYy">
+    <img src="https://img.shields.io/badge/GitHub-MN2CASHYy-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -74,15 +74,15 @@
 <h3>📈 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mn2cash&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MN2CASHYy&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mn2cash&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MN2CASHYy&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mn2cash&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MN2CASHYy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <hr/>
